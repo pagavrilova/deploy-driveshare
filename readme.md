@@ -1,0 +1,1 @@
+Репозиторий развернутого приложения на платформе [pythonanywhere](https://www.pythonanywhere.com/)
